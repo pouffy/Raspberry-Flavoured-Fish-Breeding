@@ -1,0 +1,7 @@
+{
+	"parent": "pisciculture:block/roe/1",
+	"textures": {
+		"texture": "pisciculture:block/roe/cod",
+		"particle": "pisciculture:blocks/roe/cod"
+	}
+}

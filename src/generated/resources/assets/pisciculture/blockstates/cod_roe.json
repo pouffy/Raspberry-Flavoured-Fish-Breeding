@@ -1,0 +1,16 @@
+{
+  "variants": {
+    "eggs=1": {
+      "model": "pisciculture:block/roe/cod/1"
+    },
+    "eggs=2": {
+      "model": "pisciculture:block/roe/cod/2"
+    },
+    "eggs=3": {
+      "model": "pisciculture:block/roe/cod/3"
+    },
+    "eggs=4": {
+      "model": "pisciculture:block/roe/cod/4"
+    }
+  }
+}
